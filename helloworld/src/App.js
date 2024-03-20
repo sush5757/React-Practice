@@ -7,9 +7,7 @@ function App() {
     <div className="App">
      <Header/>
      <div id ="content">
-      <p> 
-        Hey THis is 
-      </p>
+      <p>  Hey This is {2**2}   </p>
      </div>
      <Footer/>
     </div>
